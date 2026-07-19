@@ -52,7 +52,7 @@
 		</repository>
 		<repository>
 			<id>placeholderapi</id>
-			<url>https://repo.helpch.at/releases/</url>
+			<url>https://repo.helpch.at/releases</url>
 		</repository>
 		<repository>
 			<id>codemc-repo</id>
@@ -64,7 +64,7 @@
 		<dependency>
 			<groupId>io.papermc.paper</groupId>
 			<artifactId>paper-api</artifactId>
-			<version>[26.1.2.build,)</version>
+			<version>[26.2.build,)</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
